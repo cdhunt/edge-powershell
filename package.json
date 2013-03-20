@@ -9,10 +9,10 @@
   "description": "Implement node.js PowerShell using Edge",
   "tags" : ["edge", "net", "clr", "c#", "managed", ".net", "powershell", "middleware"],
   "main": "./lib/edge-powershell.js",
-  "engines": { "node": "0.8.x" },
+  "engines": { "node": "0.10.x" },
   "licenses": [ { "type": "Apache", "url": "http://www.apache.org/licenses/LICENSE-2.0" } ],
   "dependencies": {
-    "edge": "0.7.0"
+    "edge": "0.7.1"
   },
   "homepage": "https://github.com/dfinke/edge-powershell",
   "repository": {
